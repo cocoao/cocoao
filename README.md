@@ -1,4 +1,4 @@
-Hi, I’m Hyejeong 👋 
+Hi, I’m Hyejeong 👋  
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcocoao%2Fhit-counter&count_bg=%237462FF&title_bg=%23FFF66B&icon=&icon_color=%235E5E5E&title=hits&edge_flat=false) 
 [![LinkedIn badge](http://img.shields.io/badge/Portfolio-7462ff?style=flat?link=http://cocoao.dothome.co.kr/na_pf)](http://cocoao.dothome.co.kr/na_pf)
